@@ -1,5 +1,3 @@
-[TOC]
-
 # Golf Notes
 
 Anything related to understanding golf (swing or otherwise)
