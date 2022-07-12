@@ -1,6 +1,15 @@
+[TOC]
+
 # Golf Notes
 
 Anything related to understanding golf (swing or otherwise)
+
+## Grip Thoughts
+
+* quadrant 1: Non 100%, "control the wrist" shots (e.g. pitch shots)
+* quadrant 3: 100%, "free the wrist" shots
+
+![](images/grip_and_shoulder_relationship.png)
 
 ## Swing Thoughts
 
@@ -19,14 +28,29 @@ Anything related to understanding golf (swing or otherwise)
 
 **Different Ball Position == Different Shot Shapes**
 * "Bend it a lot in order to learn out to bend it a little"
-    * Consider the red part of the swing plane the "No Fly" zone
+    * Consider the red part of the swing plane the "No Fly" zone; the spot in the swing where you *shouldn't* be
+      positioning the ball. As you get better, this will/can become smaller (to produce smaller fades/draws) but it is
+      best to start out with a large margin of safety.
 
 ![](images/fades_vs_draws.png)
 
 **Vertical Swing Plane == Smaller Misses** 
-![](images/vertical_swing_plane_superiority.png)
+* The ball travels in 3D space, yet *most* big misses are in the horizontal plane. A more vertical swing plane is  
+  geometrically less likely to have large misses.
 
 $$
+\text{Let } \theta_i \text{ represent the angle between the forward ball position (red) and the back ball position (green):} \\
+\\
 \theta_{0} > \theta_{1} > \theta_{2} > \theta_{3}
 $$
+
+![](images/vertical_swing_plane_superiority.png)
+
+## Small Thoughts
+
+* **(2022-07-20)**: Pitch Shots
+    * On uphill lies, use your hands more and be stronger with it.
+* **(2022-07-07)**: Tee Shots
+    * Use a ball with lines and use the lines on the ball as a visual cue to help define the plane on which the club and
+      your shoulders should rotate (flatter).
 
