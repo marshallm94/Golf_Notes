@@ -1,9 +1,13 @@
+import os
+
 import pandas as pd
 import numpy as np
 import tidypolars as tp
 
 yardages = pd.read_csv('../data/yardages.csv')
 yardages = tp.from_pandas(yardages)
+
+os.environ['POLARS_FMT_MAX_ROWS'] = '-1'
 
 (
     yardages
