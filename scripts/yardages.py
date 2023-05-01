@@ -13,8 +13,8 @@ os.environ['POLARS_FMT_MAX_ROWS'] = '-1'
     yardages
     .summarize(Avg_Yardage = tp.mean("Yardage"),
                Std_Yardage = tp.sd("Yardage"),
-               by=["Club","Swing_Type"])
-    .select('Avg_Yardage','Club','Swing_Type')
+               by=["Club","Wrist_Hinge","Swing_Degree"])
+    .select('Avg_Yardage','Club','Wrist_Hinge','Swing_Degree')
     .arrange("Avg_Yardage")
 )
 
