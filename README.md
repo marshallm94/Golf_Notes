@@ -2,6 +2,34 @@
 
 Anything related to understanding golf (swing or otherwise)
 
+# Guiding Principals
+
+1. The setup is **always** in service of the impact position
+    * 
+
+## The Tree
+
+| Shot Type | Grip Location | Club Position | Left Humerus Rotation | Club   | Distance |
+| --------- | ------------- | ------------- | --------------------- | ----   | -------- |
+| Full      | Top           | Fingers       | Internal              | 60     | 100      |
+| Full      | Top           | Fingers       | Internal              | Goldie | 105-110  |
+| Full      | Top           | Fingers       | Internal              | 52     | 130-135  |
+| Full      | Top           | Fingers       | Internal              | PW     | 145-150  |
+| Full      | Top           | Fingers       | Internal              | 9      | ~165-170 |
+| Full      | Top           | Fingers       | Internal              | 8      | ~170-180 |
+| Full      | Top           | Fingers       | Internal              | 7      | ~185-195 |
+| Full      | Top           | Fingers       | Internal              | 6      | ~200-205 |
+| Full      | Top           | Fingers       | Internal              | 5      | ~205-210 |
+| Full      | Top           | Fingers       | Internal              | 4      | ~210-215 |
+| Full      | Top           | Fingers       | Internal              | 3      | ~220     |
+| Full      | Top           | Fingers       | Internal              | 3wood  | ~250     |
+| Full      | Top           | Fingers       | Internal              | Driver | ~280-300 |
+| Full      | Next to Steel | Palm          | Internal              | Goldie | 75       |
+| Full      | Next to Steel | Palm          | Internal              | 52     | 85       |
+| Full      | Next to Steel | Palm          | Internal              | PW     | 100      |
+
+
+
 ## Yardages
 
 ```
